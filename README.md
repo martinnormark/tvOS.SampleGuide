@@ -1,6 +1,6 @@
 # tvOS.SampleGuide
 
-Just a little experiment setting up a local Node.js server to provide application JavaScript file to load a sample template, that looks like this:
+Just a little experiment setting up a local Node.js server to provide application JavaScript file for an [Apple TV client-server app](http://martinnormark.com/tvos-client-server-experiment/) to load a sample template, that looks like this:
 
 <img src="./tvos-sample-app.png"></img>
 
